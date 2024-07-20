@@ -1,0 +1,14 @@
+
+
+To capture additional data, you'll just need to create new columns with titles matching exactly the name values from your form inputs. For example, if you want to add first and last name inputs, you'd give them name values like so:
+
+<form name="submit-to-google-sheet">
+  <input name="email" type="email" placeholder="Email" required>
+  <input name="firstName" type="text" placeholder="First Name">
+  <input name="lastName" type="text" placeholder="Last Name">
+  <button type="submit">Send</button>
+</form>
+Then create new headers with the exact, case-sensitive name values:
+
+A	B	C	D	...
+1	timestamp	email	firstName	lastName	
