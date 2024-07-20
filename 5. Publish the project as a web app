@@ -1,0 +1,10 @@
+Click on Publish > Deploy as web app….
+Set Project Version to New and put initial version in the input field below.
+Leave Execute the app as: set to Me(your@address.com).
+For Who has access to the app: select Anyone, even anonymous.
+Click Deploy.
+In the popup, copy the Current web app URL from the dialog.
+And click OK.
+IMPORTANT! If you have a custom domain with Gmail, you might need to click OK, refresh the page, and then go to Publish 
+> Deploy as web app… again to get the proper
+web app URL. It should look something like https://script.google.com/a/yourdomain.com/macros/s/XXXX….
