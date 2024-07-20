@@ -1,0 +1,5 @@
+Click on Edit > Current project’s triggers.
+In the dialog click No triggers set up. Click here to add one now.
+In the dropdowns select doPost
+Set the events fields to From spreadsheet and On form submit
+Then click Save
