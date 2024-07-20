@@ -1,0 +1,8 @@
+First, go to Google Sheets and Start a new spreadsheet with the Blank template.
+Rename it Email Subscribers. Or whatever, it doesn't matter.
+Put the following headers into the first row:
+
+
+|-----Name------|--------Email--------|---------Message----------|
+
+To learn how to add additional input fields,
